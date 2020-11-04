@@ -1,0 +1,21 @@
+{
+  "menus": [
+    {
+      "id": "test",
+      "name": "测试页面"
+    }
+  ],
+  "requests": [
+    {
+      "host": "http://data-mercury-dev.fanggeek.com",
+      "interfaces": [
+        {
+          "name": "getTeamImportList",
+          "method": "post",
+          "path": "/v1/enterprise/information/tasks/query",
+          "token": "token-NUxp^uX2APYvHn#n"
+        }
+      ]
+    }
+  ]
+}
