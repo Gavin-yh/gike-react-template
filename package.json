@@ -2,8 +2,9 @@
   "name": "basic-data",
   "version": "0.0.1",
   "scripts": {
-    "dev": "webpack-dev-server --config webpack.config.dev.js",
-    "build": "export NODE_ENV='production' && webpack --config webpack.config.prod.js"
+    "start": "gik start",
+    "build": "gik build",
+    "deploy": "gik deploy"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
