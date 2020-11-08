@@ -2,9 +2,9 @@
   "name": "basic-data",
   "version": "0.0.1",
   "scripts": {
-    "start": "gik start",
-    "build": "gik build",
-    "deploy": "gik deploy"
+    "start": "geke start",
+    "build": "geke build",
+    "deploy": "geke deploy"
   },
   "devDependencies": {
     "babel-core": "6.26.3",
