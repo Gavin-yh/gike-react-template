@@ -1,2 +1,2 @@
-#### gik-tempalte
-> this template for the gik cli
+#### gike-react-tempalte
+> this react -template for the gike cli
