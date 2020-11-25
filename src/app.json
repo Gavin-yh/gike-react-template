@@ -7,13 +7,13 @@
   ],
   "requests": [
     {
-      "host": "http://data-mercury-dev.fanggeek.com",
+      "host": "",
       "interfaces": [
         {
-          "name": "getTeamImportList",
-          "method": "post",
-          "path": "/v1/enterprise/information/tasks/query",
-          "token": "token-NUxp^uX2APYvHn#n"
+          "name": "",
+          "method": "",
+          "path": "",
+          "token": ""
         }
       ]
     }
