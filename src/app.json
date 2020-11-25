@@ -1,21 +1,6 @@
 {
   "menus": [
-    {
-      "id": "test",
-      "name": "测试页面"
-    }
   ],
   "requests": [
-    {
-      "host": "",
-      "interfaces": [
-        {
-          "name": "",
-          "method": "",
-          "path": "",
-          "token": ""
-        }
-      ]
-    }
   ]
 }
